@@ -3,3 +3,4 @@
 {"ts":1380757023412,"patch":[[{"diffs":[[0,"\">\n<"],[-1,"p id=\"helloText\">?</p>\n<button id=\"clickButton\" class=\"buttonStyle\">click me</button"],[1,"h1> What day is Today?</h1"],[0,">\n</"]],"start1":909,"start2":909,"length1":92,"length2":34}]],"length":966,"saved":false}
 {"ts":1380757049427,"patch":[[{"diffs":[[0,"h1> "],[-1,"What "],[1,"To"],[0,"day is "],[-1,"Today?"],[1,"Wednesday, October 2nd"],[0,"</h1"]],"start1":913,"start2":913,"length1":26,"length2":39}]],"length":979,"saved":false}
 {"ts":1380757387266,"patch":[[{"diffs":[[0,"ctober 2"],[-1,"nd"],[1,", 2013."],[0,"</h1>\n</"]],"start1":938,"start2":938,"length1":18,"length2":23}]],"length":984,"saved":false}
+{"ts":1380757669349,"patch":[[{"diffs":[[0," 2, 2013"],[-1,"."],[0,"</h1>\n</"]],"start1":944,"start2":944,"length1":17,"length2":16}]],"length":983,"saved":false}
