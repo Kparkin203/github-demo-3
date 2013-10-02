@@ -4,3 +4,4 @@
 {"ts":1380757049427,"patch":[[{"diffs":[[0,"h1> "],[-1,"What "],[1,"To"],[0,"day is "],[-1,"Today?"],[1,"Wednesday, October 2nd"],[0,"</h1"]],"start1":913,"start2":913,"length1":26,"length2":39}]],"length":979,"saved":false}
 {"ts":1380757387266,"patch":[[{"diffs":[[0,"ctober 2"],[-1,"nd"],[1,", 2013."],[0,"</h1>\n</"]],"start1":938,"start2":938,"length1":18,"length2":23}]],"length":984,"saved":false}
 {"ts":1380757669349,"patch":[[{"diffs":[[0," 2, 2013"],[-1,"."],[0,"</h1>\n</"]],"start1":944,"start2":944,"length1":17,"length2":16}]],"length":983,"saved":false}
+{"ts":1380758288170,"patch":[[{"diffs":[[0,"/title>\n"],[1,"<script src=\"js/main.js\"></script>\n"],[0,"<style t"]],"start1":186,"start2":186,"length1":16,"length2":51},{"diffs":[[0,"t/css\">\n"],[1,"\n"],[0,"#mainCon"]],"start1":245,"start2":245,"length1":16,"length2":17}]],"length":1019,"saved":false}
